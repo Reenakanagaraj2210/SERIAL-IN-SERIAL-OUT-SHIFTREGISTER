@@ -52,10 +52,12 @@ endmodule
 ```
 **RTL LOGIC FOR SISO Shift Register**
 
-![Screenshot 2024-12-04 163853](https://github.com/user-attachments/assets/e0d7bdf4-483b-41db-a8c7-f70122d015be)
+
+![Screenshot 2024-12-20 145653](https://github.com/user-attachments/assets/6aec6aa1-3ac7-4e76-9295-58834ec12604)
 
 **TIMING DIGRAMS FOR SISO Shift Register**
-![Screenshot 2024-12-04 164135](https://github.com/user-attachments/assets/6bb5bba7-ba1c-48bd-9f48-f0c2a4e2a4ec)
+![Screenshot 2024-12-18 150837](https://github.com/user-attachments/assets/35cb2fea-1d65-4323-983c-f064ee240471)
+
 
 
 **RESULTS**
